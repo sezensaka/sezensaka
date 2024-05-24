@@ -19,10 +19,10 @@ Merhaba! Ben Sezen Saka, Jr. Frontend Developer olarak kendimi geliştirmeye ça
 ### [Proje 1: Reactive](https://github.com/sezensaka/Reactive-Sezen-Saka)
 Patika bootcamp sürecinde önce html css ve javascript kullanarak, daha sonra react ile güncelleyerek yaptığım proje, müşterilere merkezin sunduğu hizmetler hakkında bilgi verir, sınıfları ve antrenörleri tanıtır, müşteri değerlendirmelerini sunar ve iletişim bilgilerini sağlar.
 
-### [Proje 2: Todo List]([https://github.com/sezensaka/todo-list-app](https://github.com/sezensaka/Week6-Odev2-ToDoList))
+### [Proje 2: Todo List](https://github.com/sezensaka/todo-list-app](https://github.com/sezensaka/Week6-Odev2-ToDoList)
 Javascript kullanarak oluşturulmuş bir yapılacaklar listesi uygulaması. Kullanıcıların yapılacaklarını eklemelerini, düzenlemelerini ve silmelerini sağlar.
 
-### [Proje 3: Bill Gates Projesi]([https://github.com/sezensaka/weather-app](https://github.com/sezensaka/Week8-BillGates))
+### [Proje 3: Bill Gates Projesi](https://github.com/sezensaka/weather-app](https://github.com/sezensaka/Week8-BillGates)
 React ile geliştirilmiştir. 
 
 ## 📈 GitHub İstatistiklerim
